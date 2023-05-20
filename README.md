@@ -13,7 +13,7 @@
     <br><br>
 </div>
 
-<br><br>
+---
 <h2 align="center">Sobre o processo seletivo</h2><br>
 
 <div>
