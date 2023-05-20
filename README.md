@@ -11,11 +11,9 @@
     <p><strong>Alunos de INFO-3 2023.</strong></p>
     <h4>Muita boa sorte para você! 💖</h4>
     <br><br>
-    <p>Contagem, 2023</p>
 </div>
 
----
-
+<br><br>
 <h2 align="center">Sobre o processo seletivo</h2><br>
 
 <div>
@@ -27,8 +25,6 @@
         <li>📃 A data da prova é <strong>22/10/2023</strong>, num <strong>domingo</strong>.</li>
     </ul>
 </div>
-
----
 
 <h2 align="center">Recomendações Gerais</h2><br>
 
