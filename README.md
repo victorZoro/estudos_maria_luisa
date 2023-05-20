@@ -1,5 +1,5 @@
 <div align="center">
-    <pre>Esta página não é oficial do CEFET-MG</pre>
+    <pre>Disclaimer: Esta página não é oficial do CEFET-MG</pre>
     <img src="https://seeklogo.com/images/C/CEFET_-_MG-logo-715CEA28CB-seeklogo.com.png" />
     <h1>Recomendações de Estudo</h1>
     <br><br>
